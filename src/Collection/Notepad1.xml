@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>updated xml</comment>
+<entry key="1">even</entry>
+<entry key="2">odd</entry>
+<entry key="3">even</entry>
+<entry key="4">odd</entry>
+</properties>
