@@ -2,8 +2,8 @@ package regularExpressions;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 import java.util.*;
 
 public class practiceClass {
@@ -76,7 +76,7 @@ System.out.println(maps);
 }
 
 	public static void main(String[] args) {
-		findNumberOfOccurencesOfword();
+		findconsectiveNumbers();
 		
 		
 
